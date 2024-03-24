@@ -1,21 +1,32 @@
+### 🄷🅸︎  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2nYgAHhJ) 
+<img src="https://ugokawaii.com/wp-content/uploads/2023/05/chorus.gif" width="240px">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amangautamdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amangautamdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amangautamdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amangautamdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+🄸🅰︎🄼 🅰︎🄼🅰︎🄽
+
+
+##
+🥱🥱🥱
+##
+ ![logo](https://i.pinimg.com/originals/9c/35/6c/9c356c9ded0c8d64958ca64d8473ebf1.gif)
+# THIS IS ME [AMAN](https://t.me/LegendRobot)
+
+# Community ❤️
+</p>
+<p align="center">
+<a href="https://instagram.com/realaman2004?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://t.me/LegendRobot"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://youtube.com/"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+
+## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
+[![Stats](https://github-readme-stats.vercel.app/api?username=amangautamdev&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/amangautamdev/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amangautamdev&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangautamdev&layout=compact&theme=tokyonight" align="center">
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amangautamdev&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with Aman Gautam ( https://gprm.itsvg.in ) -->
